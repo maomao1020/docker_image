@@ -4,3 +4,4 @@ rancher/mirrored-pause:3.6
 mysql:8.0.44
 rabbitmq:3.12.6
 nacos/nacos-server:v2.5.0
+nobodyiam/apollo-quick-start
